@@ -1,6 +1,8 @@
 # ISSM_Experiments
 
-The repository contains MATLAB scripts and live scripts for ISSM experiments conducted on selected Antarctic ice shelves and Greenland glaciers. These scripts are designed as tutorials for future use and include detailed explanatory comments. Since the scripts are uploaded as MATLAB live scripts (.mlx), they are not directly visible on GitHub due to compatibility issues. However, a corresponding .pdf is provided for each file, displaying both the code and the outputs at every step.
+The repository contains MATLAB scripts and live scripts for ISSM experiments conducted on selected Antarctic ice shelves and Greenland glaciers. These scripts are designed as tutorials for future use and include detailed explanatory comments. 
+
+Since the scripts are uploaded as MATLAB live scripts (.mlx), they are not directly visible on GitHub due to compatibility issues. However, a corresponding .pdf is provided for each file, displaying both the code and the outputs at every step.
 
 Important points:
 1.	These scripts are not simply copied from the ISSM tutorial website and uploaded here. Instead, they have been thoroughly tested, carefully annotated, and adapted to improve understanding of the step-by-step workflow. 
