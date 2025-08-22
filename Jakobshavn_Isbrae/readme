@@ -1,1 +1,7 @@
-This repository is composed of the scirpt (with its .pdf version) about modelling the steady-state inversion
+This repository contains a MATLAB Live Script (and a corresponding .pdf version) documenting the modeling of Jakobshavn Isbræ glacier, Greenland.
+The workflow includes:
+	1.	Steady-State Inversion – performed using BedMachine Greenland topography and annual velocity composites.
+	2.	Thermal Simulation – forward modeling of ice temperature evolution.
+	3.	Subglacial Hydrology – implemented with the SHAKTI hydrology model to simulate transient subglacial water flow.
+
+The scripts are designed as a reproducible reference for ice-flow modeling, inversion methods, and hydrology coupling, with a focus on Jakobshavn Isbræ but adaptable to other glacial systems.
