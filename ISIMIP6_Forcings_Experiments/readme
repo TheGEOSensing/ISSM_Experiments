@@ -1,0 +1,2 @@
+A collection of MATLAB scripts for reading, adapting, and interpolating ISMIP6 climate forcing datasets (SMB and ocean thermal forcing) 
+for Antarctic transient simulations in ISSM, with support for multiple CMIP climate models and scenarios.
